@@ -1,0 +1,18 @@
+# lista_mea = []
+# print(type(lista_mea))
+lista_mea = [8, 2, 'Ana are mere', 5, 'pere', 34, 20, 89, "struguri", False]
+# print(lista_mea[2])
+# print(lista_mea[5])
+# print(lista_mea [-1])
+# print(lista_mea [-4])
+# print(lista_mea[0:3])
+# print(lista_mea[0:3])
+# print(lista_mea[0:8])
+# print(lista_mea[:2])
+# print(lista_mea[0:8:3])
+# print(len(lista_mea)
+# print(lista_mea.index(20))
+# print(lista_mea.index(89))
+# lista_mea.append("pepene")
+# print(lista_mea)
+# print(lista_mea.index("pepene"))
