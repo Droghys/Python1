@@ -10,4 +10,3 @@ lista = [1, 2, 3]
 lista_cumparaturi = ["struguri", "mere", "pere"]
 for index in lista_cumparaturi:
     print(index)
-print(index)
