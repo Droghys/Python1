@@ -28,5 +28,3 @@ while numar_vieti > 0:
         numar_vieti = numar_vieti - 1
         if numar_vieti <= 0:
             print(f"Ai pierdut! Cuvantul era:{cuvant}")
-
-
