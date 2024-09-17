@@ -1,0 +1,5 @@
+Spalare ->George ->22.10.2022 ->Auto ->
+Mutare ->Alex ->25.10.2023 ->Mobila ->
+Dezmembrare ->Ionut ->12.04.2024 ->Computer ->
+Curatare ->Dani ->14.06.2024 ->Curatare lac ->
+Verificare ->Mihai ->25.09.2023 ->Control Medical ->
